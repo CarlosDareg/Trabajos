@@ -93,20 +93,3 @@ void draw()
      p.rebote();
   }
 }
-
-/* como crear un arreglo
-
-ArrayList <particula> particulas;
-
-void setup
-}
-  particulas = new arraylist<particulas>();
-  
-  particulas.add("parametros")
-  
-
-
-
-}
-
-*/
